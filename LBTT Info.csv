@@ -1,0 +1,1723 @@
+FeatureCode,FeatureName,FeatureType,DateCode,Measurement,Units,Value,Type of Transaction,Type of Property,Total Consideration
+S92000003,Scotland,Country,2020-11,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2020-11,Count,Transactions,1440,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2020-11,Count,Transactions,350,Lease,All,Not Applicable
+S92000003,Scotland,Country,2020-11,Count,Transactions,1480,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2020-10,Count,Transactions,11970,Conveyance,Residential,All
+S92000003,Scotland,Country,2020-10,Count,Transactions,11980,All,Residential,Not Applicable
+S92000003,Scotland,Country,2020-10,Count,Transactions,290,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2020-11,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-11,Count,Transactions,12270,All,Residential,Not Applicable
+S92000003,Scotland,Country,2020-11,Count,Transactions,4960,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2020-11,Count,Transactions,280,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2020-11,Count,Transactions,100,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2020-11,Count,Transactions,270,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2020-11,Count,Transactions,2420,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2020-10,Count,Transactions,540,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2020-10,Count,Transactions,100,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2020-10,Count,Transactions,1420,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2020-10,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-10,Count,Transactions,4770,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2020-10,Count,Transactions,580,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2020-10,Count,Transactions,1220,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2020-10,Count,Transactions,4230,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-10,Count,Transactions,270,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2020-10,Count,Transactions,1460,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2020-10,Count,Transactions,13190,All,All,Not Applicable
+S92000003,Scotland,Country,2020-10,Count,Transactions,170,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2020-10,Count,Transactions,370,Lease,All,Not Applicable
+S92000003,Scotland,Country,2020-12,Count,Transactions,500,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2020-12,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-12,Count,Transactions,140,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2020-12,Count,Transactions,4800,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-12,Count,Transactions,310,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2020-12,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2020-12,Count,Transactions,5260,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2020-12,Count,Transactions,13560,All,Residential,Not Applicable
+S92000003,Scotland,Country,2020-12,Count,Transactions,2780,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2021-01,Count,Transactions,1670,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2021-01,Count,Transactions,2300,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-12,Count,Transactions,370,Lease,All,Not Applicable
+S92000003,Scotland,Country,2020-12,Count,Transactions,14950,All,All,Not Applicable
+S92000003,Scotland,Country,2020-12,Count,Transactions,13550,Conveyance,Residential,All
+S92000003,Scotland,Country,2020-11,Count,Transactions,560,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2020-11,Count,Transactions,13430,All,All,Not Applicable
+S92000003,Scotland,Country,2020-11,Count,Transactions,480,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2020-11,Count,Transactions,160,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2020-11,Count,Transactions,12260,Conveyance,Residential,All
+S92000003,Scotland,Country,2020-11,Count,Transactions,4280,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-11,Count,Transactions,1170,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2020-12,Count,Transactions,1690,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2020-12,Count,Transactions,230,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2020-12,Count,Transactions,1390,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2020-12,Count,Transactions,720,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2020-12,Count,Transactions,350,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2020-12,Count,Transactions,1670,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2020-08,Count,Transactions,240,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2020-08,Count,Transactions,6460,All,Residential,Not Applicable
+S92000003,Scotland,Country,2020-08,Count,Transactions,250,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2020-08,Count,Transactions,460,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2020-07,Count,Transactions,40,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2020-07,Count,Transactions,260,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2020-07,Count,Transactions,520,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2020-08,Count,Transactions,120,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2020-08,Count,Transactions,1590,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2020-08,Count,Transactions,600,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2020-08,Count,Transactions,2940,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2020-08,Count,Transactions,730,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2020-08,Count,Transactions,290,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2020-08,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2020-07,Count,Transactions,2130,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2020-07,Count,Transactions,110,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2020-07,Count,Transactions,1090,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2020-07,Count,Transactions,5820,All,All,Not Applicable
+S92000003,Scotland,Country,2020-07,Count,Transactions,220,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2020-07,Count,Transactions,440,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2020-07,Count,Transactions,280,Lease,All,Not Applicable
+S92000003,Scotland,Country,2020-07,Count,Transactions,4840,Conveyance,Residential,All
+S92000003,Scotland,Country,2020-07,Count,Transactions,4840,All,Residential,Not Applicable
+S92000003,Scotland,Country,2020-07,Count,Transactions,1620,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-07,Count,Transactions,60,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-07,Count,Transactions,240,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2020-07,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2020-09,Count,Transactions,10300,Conveyance,Residential,All
+S92000003,Scotland,Country,2020-09,Count,Transactions,60,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-09,Count,Transactions,130,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2020-09,Count,Transactions,2320,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2020-09,Count,Transactions,10300,All,Residential,Not Applicable
+S92000003,Scotland,Country,2020-09,Count,Transactions,70,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2020-09,Count,Transactions,1180,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2020-09,Count,Transactions,310,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2020-09,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2020-10,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2020-10,Count,Transactions,2470,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2020-09,Count,Transactions,11450,All,All,Not Applicable
+S92000003,Scotland,Country,2020-09,Count,Transactions,510,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2020-09,Count,Transactions,340,Lease,All,Not Applicable
+S92000003,Scotland,Country,2020-08,Count,Transactions,6460,Conveyance,Residential,All
+S92000003,Scotland,Country,2020-08,Count,Transactions,40,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2020-08,Count,Transactions,2150,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-08,Count,Transactions,980,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2020-08,Count,Transactions,280,Lease,All,Not Applicable
+S92000003,Scotland,Country,2020-08,Count,Transactions,60,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-08,Count,Transactions,7450,All,All,Not Applicable
+S92000003,Scotland,Country,2020-09,Count,Transactions,1130,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2020-09,Count,Transactions,3690,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-09,Count,Transactions,4240,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2020-09,Count,Transactions,1150,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2020-09,Count,Transactions,280,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2020-09,Count,Transactions,490,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2021-05,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-05,Count,Transactions,9830,All,All,Not Applicable
+S92000003,Scotland,Country,2021-05,Count,Transactions,360,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2021-05,Count,Transactions,60,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2021-04,Count,Transactions,180,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2021-04,Count,Transactions,1780,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2021-04,Count,Transactions,680,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2021-05,Count,Transactions,300,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2021-05,Count,Transactions,8540,All,Residential,Not Applicable
+S92000003,Scotland,Country,2021-05,Count,Transactions,1290,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2021-05,Count,Transactions,2830,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-05,Count,Transactions,3730,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2021-05,Count,Transactions,170,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2021-05,Count,Transactions,2020,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2021-04,Count,Transactions,360,Lease,All,Not Applicable
+S92000003,Scotland,Country,2021-04,Count,Transactions,2100,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-04,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2021-04,Count,Transactions,250,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2021-04,Count,Transactions,320,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2021-04,Count,Transactions,6850,Conveyance,Residential,All
+S92000003,Scotland,Country,2021-04,Count,Transactions,8200,All,All,Not Applicable
+S92000003,Scotland,Country,2021-04,Count,Transactions,330,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2021-04,Count,Transactions,6850,All,Residential,Not Applicable
+S92000003,Scotland,Country,2021-04,Count,Transactions,3360,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2021-04,Count,Transactions,670,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2021-04,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-04,Count,Transactions,1340,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2021-06,Count,Transactions,11110,Conveyance,Residential,All
+S92000003,Scotland,Country,2021-06,Count,Transactions,1290,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2021-06,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2021-06,Count,Transactions,2190,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2021-06,Count,Transactions,1360,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2021-06,Count,Transactions,11120,All,Residential,Not Applicable
+S92000003,Scotland,Country,2021-06,Count,Transactions,290,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2021-06,Count,Transactions,130,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2021-06,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-07,Count,Transactions,10830,All,Residential,Not Applicable
+S92000003,Scotland,Country,2021-07,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-06,Count,Transactions,280,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2021-06,Count,Transactions,360,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2021-06,Count,Transactions,12400,All,All,Not Applicable
+S92000003,Scotland,Country,2021-05,Count,Transactions,940,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2021-05,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2021-05,Count,Transactions,300,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2021-05,Count,Transactions,8540,Conveyance,Residential,All
+S92000003,Scotland,Country,2021-05,Count,Transactions,600,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2021-05,Count,Transactions,340,Lease,All,Not Applicable
+S92000003,Scotland,Country,2021-05,Count,Transactions,980,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2021-06,Count,Transactions,590,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2021-06,Count,Transactions,3740,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-06,Count,Transactions,1350,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2021-06,Count,Transactions,170,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2021-06,Count,Transactions,4540,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2021-06,Count,Transactions,420,Lease,All,Not Applicable
+S92000003,Scotland,Country,2021-02,Count,Transactions,3170,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2021-02,Count,Transactions,260,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2021-02,Count,Transactions,7630,Conveyance,Residential,All
+S92000003,Scotland,Country,2021-02,Count,Transactions,480,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2021-01,Count,Transactions,130,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2021-01,Count,Transactions,290,Lease,All,Not Applicable
+S92000003,Scotland,Country,2021-01,Count,Transactions,7040,All,Residential,Not Applicable
+S92000003,Scotland,Country,2021-02,Count,Transactions,950,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2021-02,Count,Transactions,2450,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-02,Count,Transactions,8590,All,All,Not Applicable
+S92000003,Scotland,Country,2021-02,Count,Transactions,320,Lease,All,Not Applicable
+S92000003,Scotland,Country,2021-02,Count,Transactions,150,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2021-02,Count,Transactions,70,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2021-02,Count,Transactions,950,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2021-01,Count,Transactions,850,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2021-01,Count,Transactions,170,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2021-01,Count,Transactions,3010,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2021-01,Count,Transactions,60,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2021-01,Count,Transactions,7030,Conveyance,Residential,All
+S92000003,Scotland,Country,2021-01,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2021-01,Count,Transactions,820,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2021-01,Count,Transactions,390,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2021-01,Count,Transactions,7940,All,All,Not Applicable
+S92000003,Scotland,Country,2021-01,Count,Transactions,900,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2021-01,Count,Transactions,260,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2021-01,Count,Transactions,230,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2021-01,Count,Transactions,60,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-03,Count,Transactions,410,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2021-03,Count,Transactions,70,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2021-03,Count,Transactions,4600,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2021-03,Count,Transactions,1740,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2021-03,Count,Transactions,250,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2021-03,Count,Transactions,880,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2021-03,Count,Transactions,130,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-03,Count,Transactions,400,Lease,All,Not Applicable
+S92000003,Scotland,Country,2021-03,Count,Transactions,500,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2021-04,Count,Transactions,60,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2021-04,Count,Transactions,660,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2021-03,Count,Transactions,14250,All,All,Not Applicable
+S92000003,Scotland,Country,2021-03,Count,Transactions,260,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2021-03,Count,Transactions,1520,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2021-02,Count,Transactions,7640,All,Residential,Not Applicable
+S92000003,Scotland,Country,2021-02,Count,Transactions,1860,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2021-02,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-02,Count,Transactions,280,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2021-02,Count,Transactions,1000,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2021-02,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2021-02,Count,Transactions,140,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2021-03,Count,Transactions,1800,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2021-03,Count,Transactions,4450,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-03,Count,Transactions,2990,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2021-03,Count,Transactions,130,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2021-03,Count,Transactions,12740,All,Residential,Not Applicable
+S92000003,Scotland,Country,2021-03,Count,Transactions,12730,Conveyance,Residential,All
+S92000003,Scotland,Country,2019-11,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2019-11,Count,Transactions,250,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2019-11,Count,Transactions,160,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2019-11,Count,Transactions,9460,Conveyance,Residential,All
+S92000003,Scotland,Country,2019-10,Count,Transactions,2280,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2019-10,Count,Transactions,420,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2019-11,Count,Transactions,490,Lease,All,Not Applicable
+S92000003,Scotland,Country,2019-11,Count,Transactions,2160,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2019-11,Count,Transactions,1320,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2019-11,Count,Transactions,4360,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2019-11,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-11,Count,Transactions,800,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2019-11,Count,Transactions,530,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2019-11,Count,Transactions,1060,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2019-10,Count,Transactions,10060,Conveyance,Residential,All
+S92000003,Scotland,Country,2019-10,Count,Transactions,1090,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2019-10,Count,Transactions,280,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2019-10,Count,Transactions,4510,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2019-10,Count,Transactions,11420,All,All,Not Applicable
+S92000003,Scotland,Country,2019-10,Count,Transactions,10070,All,Residential,Not Applicable
+S92000003,Scotland,Country,2019-10,Count,Transactions,990,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2019-10,Count,Transactions,3430,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-10,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2019-10,Count,Transactions,140,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2019-10,Count,Transactions,470,Lease,All,Not Applicable
+S92000003,Scotland,Country,2019-10,Count,Transactions,540,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2019-10,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2019-12,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-12,Count,Transactions,60,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2019-12,Count,Transactions,4180,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2019-12,Count,Transactions,330,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2019-12,Count,Transactions,300,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2019-12,Count,Transactions,9880,All,Residential,Not Applicable
+S92000003,Scotland,Country,2019-12,Count,Transactions,980,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2020-01,Count,Transactions,2920,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2019-12,Count,Transactions,80,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2020-01,Count,Transactions,370,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2020-01,Count,Transactions,2160,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-12,Count,Transactions,390,Lease,All,Not Applicable
+S92000003,Scotland,Country,2019-12,Count,Transactions,1380,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2019-12,Count,Transactions,1110,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2019-11,Count,Transactions,60,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2019-11,Count,Transactions,3180,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-12,Count,Transactions,2110,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2019-11,Count,Transactions,9460,All,Residential,Not Applicable
+S92000003,Scotland,Country,2019-11,Count,Transactions,360,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2019-11,Count,Transactions,300,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2019-11,Count,Transactions,10780,All,All,Not Applicable
+S92000003,Scotland,Country,2019-12,Count,Transactions,380,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2019-12,Count,Transactions,660,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2019-12,Count,Transactions,9870,Conveyance,Residential,All
+S92000003,Scotland,Country,2019-12,Count,Transactions,3520,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-12,Count,Transactions,220,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2019-12,Count,Transactions,11260,All,All,Not Applicable
+S92000003,Scotland,Country,2019-08,Count,Transactions,370,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2019-08,Count,Transactions,11460,All,All,Not Applicable
+S92000003,Scotland,Country,2019-08,Count,Transactions,540,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2019-08,Count,Transactions,410,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2019-07,Count,Transactions,990,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2019-07,Count,Transactions,4180,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2019-08,Count,Transactions,10150,Conveyance,Residential,All
+S92000003,Scotland,Country,2019-08,Count,Transactions,900,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2019-08,Count,Transactions,160,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2019-08,Count,Transactions,3490,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-08,Count,Transactions,1300,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2019-08,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-08,Count,Transactions,4620,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2019-08,Count,Transactions,390,Lease,All,Not Applicable
+S92000003,Scotland,Country,2019-07,Count,Transactions,410,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2019-07,Count,Transactions,9560,Conveyance,Residential,All
+S92000003,Scotland,Country,2019-07,Count,Transactions,9570,All,Residential,Not Applicable
+S92000003,Scotland,Country,2019-07,Count,Transactions,1070,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2019-07,Count,Transactions,430,Lease,All,Not Applicable
+S92000003,Scotland,Country,2019-07,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2019-07,Count,Transactions,530,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2019-07,Count,Transactions,1350,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2019-07,Count,Transactions,2000,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2019-07,Count,Transactions,400,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2019-07,Count,Transactions,200,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2019-07,Count,Transactions,3270,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-07,Count,Transactions,10930,All,All,Not Applicable
+S92000003,Scotland,Country,2019-09,Count,Transactions,10360,All,All,Not Applicable
+S92000003,Scotland,Country,2019-09,Count,Transactions,9120,Conveyance,Residential,All
+S92000003,Scotland,Country,2019-09,Count,Transactions,4060,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2019-09,Count,Transactions,370,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2019-09,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-09,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2019-09,Count,Transactions,1240,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2019-10,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-09,Count,Transactions,350,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2019-10,Count,Transactions,1360,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2019-10,Count,Transactions,350,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2019-09,Count,Transactions,410,Lease,All,Not Applicable
+S92000003,Scotland,Country,2019-09,Count,Transactions,2000,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2019-09,Count,Transactions,1030,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2019-08,Count,Transactions,2220,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2019-08,Count,Transactions,270,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2019-09,Count,Transactions,480,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2019-08,Count,Transactions,70,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2019-08,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2019-08,Count,Transactions,10160,All,Residential,Not Applicable
+S92000003,Scotland,Country,2019-08,Count,Transactions,1080,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2019-09,Count,Transactions,940,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2019-09,Count,Transactions,70,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2019-09,Count,Transactions,3030,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-09,Count,Transactions,230,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2019-09,Count,Transactions,150,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2019-09,Count,Transactions,9120,All,Residential,Not Applicable
+S92000003,Scotland,Country,2020-05,Count,Transactions,20,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2020-05,Count,Transactions,40,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-05,Count,Transactions,280,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2020-05,Count,Transactions,240,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2020-04,Count,Transactions,180,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2020-04,Count,Transactions,260,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2020-04,Count,Transactions,100,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2020-05,Count,Transactions,3580,All,All,Not Applicable
+S92000003,Scotland,Country,2020-05,Count,Transactions,200,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2020-05,Count,Transactions,1450,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2020-05,Count,Transactions,20,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2020-05,Count,Transactions,560,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2020-05,Count,Transactions,140,Lease,All,Not Applicable
+S92000003,Scotland,Country,2020-05,Count,Transactions,110,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2020-04,Count,Transactions,160,Lease,All,Not Applicable
+S92000003,Scotland,Country,2020-04,Count,Transactions,3550,All,All,Not Applicable
+S92000003,Scotland,Country,2020-04,Count,Transactions,1340,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2020-04,Count,Transactions,550,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2020-04,Count,Transactions,600,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2020-04,Count,Transactions,1000,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-04,Count,Transactions,90,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2020-04,Count,Transactions,50,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-04,Count,Transactions,20,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2020-04,Count,Transactions,340,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2020-04,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2020-04,Count,Transactions,110,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2020-04,Count,Transactions,2940,Conveyance,Residential,All
+S92000003,Scotland,Country,2020-06,Count,Transactions,440,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2020-06,Count,Transactions,230,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2020-06,Count,Transactions,4960,All,All,Not Applicable
+S92000003,Scotland,Country,2020-06,Count,Transactions,100,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2020-06,Count,Transactions,1360,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-06,Count,Transactions,450,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2020-06,Count,Transactions,30,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2020-06,Count,Transactions,170,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2020-06,Count,Transactions,790,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2020-07,Count,Transactions,530,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2020-07,Count,Transactions,980,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2020-06,Count,Transactions,810,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2020-06,Count,Transactions,370,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2020-06,Count,Transactions,190,Lease,All,Not Applicable
+S92000003,Scotland,Country,2020-05,Count,Transactions,2960,All,Residential,Not Applicable
+S92000003,Scotland,Country,2020-05,Count,Transactions,2960,Conveyance,Residential,All
+S92000003,Scotland,Country,2020-05,Count,Transactions,990,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-05,Count,Transactions,90,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2020-05,Count,Transactions,130,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2020-05,Count,Transactions,620,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2020-05,Count,Transactions,260,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2020-06,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2020-06,Count,Transactions,4160,Conveyance,Residential,All
+S92000003,Scotland,Country,2020-06,Count,Transactions,1880,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2020-06,Count,Transactions,4170,All,Residential,Not Applicable
+S92000003,Scotland,Country,2020-06,Count,Transactions,190,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2020-06,Count,Transactions,60,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-02,Count,Transactions,370,Lease,All,Not Applicable
+S92000003,Scotland,Country,2020-02,Count,Transactions,530,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2020-02,Count,Transactions,2060,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-02,Count,Transactions,630,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2020-01,Count,Transactions,430,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2020-01,Count,Transactions,580,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2020-02,Count,Transactions,1600,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2020-02,Count,Transactions,470,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2020-02,Count,Transactions,7410,All,All,Not Applicable
+S92000003,Scotland,Country,2020-02,Count,Transactions,1280,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2020-02,Count,Transactions,2860,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2020-02,Count,Transactions,40,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2020-02,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-02,Count,Transactions,6130,Conveyance,Residential,All
+S92000003,Scotland,Country,2020-01,Count,Transactions,150,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2020-01,Count,Transactions,650,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2020-01,Count,Transactions,6360,All,Residential,Not Applicable
+S92000003,Scotland,Country,2020-01,Count,Transactions,6360,Conveyance,Residential,All
+S92000003,Scotland,Country,2020-01,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2020-01,Count,Transactions,1190,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2020-01,Count,Transactions,260,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2020-01,Count,Transactions,60,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-01,Count,Transactions,400,Lease,All,Not Applicable
+S92000003,Scotland,Country,2020-01,Count,Transactions,200,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2020-01,Count,Transactions,7550,All,All,Not Applicable
+S92000003,Scotland,Country,2020-01,Count,Transactions,1590,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2020-01,Count,Transactions,20,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2020-03,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2020-03,Count,Transactions,3300,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2020-03,Count,Transactions,340,Lease,All,Not Applicable
+S92000003,Scotland,Country,2020-03,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-03,Count,Transactions,1700,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2020-03,Count,Transactions,610,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2020-03,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2020-04,Count,Transactions,2940,All,Residential,Not Applicable
+S92000003,Scotland,Country,2020-03,Count,Transactions,500,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2020-04,Count,Transactions,250,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2020-03,Count,Transactions,310,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2020-03,Count,Transactions,7170,All,Residential,Not Applicable
+S92000003,Scotland,Country,2020-03,Count,Transactions,8430,All,All,Not Applicable
+S92000003,Scotland,Country,2020-02,Count,Transactions,440,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2020-02,Count,Transactions,130,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2020-03,Count,Transactions,230,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2020-02,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2020-02,Count,Transactions,260,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2020-02,Count,Transactions,6130,All,Residential,Not Applicable
+S92000003,Scotland,Country,2020-02,Count,Transactions,230,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2020-03,Count,Transactions,790,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2020-03,Count,Transactions,7170,Conveyance,Residential,All
+S92000003,Scotland,Country,2020-03,Count,Transactions,160,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2020-03,Count,Transactions,1260,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2020-03,Count,Transactions,2430,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2020-03,Count,Transactions,430,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2022-11,Count,Transactions,130,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2022-10,Count,Transactions,580,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2022-11,Count,Transactions,370,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2022-11,Count,Transactions,11110,All,All,Not Applicable
+S92000003,Scotland,Country,2022-10,Count,Transactions,1780,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2022-10,Count,Transactions,200,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2022-10,Count,Transactions,3180,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-11,Count,Transactions,600,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2022-11,Count,Transactions,270,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2022-11,Count,Transactions,3070,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-11,Count,Transactions,9750,All,Residential,Not Applicable
+S92000003,Scotland,Country,2022-11,Count,Transactions,1720,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2022-11,Count,Transactions,2480,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2022-11,Count,Transactions,1380,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2022-10,Count,Transactions,10050,All,Residential,Not Applicable
+S92000003,Scotland,Country,2022-10,Count,Transactions,350,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2022-10,Count,Transactions,280,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2022-10,Count,Transactions,11360,All,All,Not Applicable
+S92000003,Scotland,Country,2022-10,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-10,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2022-10,Count,Transactions,3560,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2022-10,Count,Transactions,1400,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2022-10,Count,Transactions,250,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2022-10,Count,Transactions,390,Lease,All,Not Applicable
+S92000003,Scotland,Country,2022-10,Count,Transactions,10050,Conveyance,Residential,All
+S92000003,Scotland,Country,2022-10,Count,Transactions,1310,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2022-10,Count,Transactions,2450,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2022-12,Count,Transactions,670,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2022-12,Count,Transactions,210,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2022-12,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2022-12,Count,Transactions,110,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-12,Count,Transactions,3130,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2022-12,Count,Transactions,310,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2022-12,Count,Transactions,8800,All,Residential,Not Applicable
+S92000003,Scotland,Country,2022-12,Count,Transactions,330,Lease,All,Not Applicable
+S92000003,Scotland,Country,2022-12,Count,Transactions,1280,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2023-01,Count,Transactions,2170,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2022-12,Count,Transactions,8790,Conveyance,Residential,All
+S92000003,Scotland,Country,2022-12,Count,Transactions,2170,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2022-12,Count,Transactions,1530,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2022-12,Count,Transactions,110,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2022-11,Count,Transactions,9740,Conveyance,Residential,All
+S92000003,Scotland,Country,2022-11,Count,Transactions,400,Lease,All,Not Applicable
+S92000003,Scotland,Country,2022-11,Count,Transactions,3450,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2022-11,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2022-11,Count,Transactions,1360,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2022-11,Count,Transactions,180,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2022-11,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-12,Count,Transactions,1370,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2022-12,Count,Transactions,210,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2022-12,Count,Transactions,370,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2022-12,Count,Transactions,2740,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-11,Count,Transactions,290,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2022-12,Count,Transactions,10160,All,All,Not Applicable
+S92000003,Scotland,Country,2022-08,Count,Transactions,320,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2022-07,Count,Transactions,130,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2022-08,Count,Transactions,3680,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2022-08,Count,Transactions,430,Lease,All,Not Applicable
+S92000003,Scotland,Country,2022-07,Count,Transactions,3050,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-07,Count,Transactions,380,Lease,All,Not Applicable
+S92000003,Scotland,Country,2022-07,Count,Transactions,2140,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2022-08,Count,Transactions,1800,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2022-08,Count,Transactions,190,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2022-08,Count,Transactions,360,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2022-08,Count,Transactions,270,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2022-08,Count,Transactions,140,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2022-08,Count,Transactions,10420,All,Residential,Not Applicable
+S92000003,Scotland,Country,2022-08,Count,Transactions,3320,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-07,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2022-07,Count,Transactions,1650,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2022-07,Count,Transactions,10660,All,All,Not Applicable
+S92000003,Scotland,Country,2022-07,Count,Transactions,300,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2022-07,Count,Transactions,3200,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2022-07,Count,Transactions,380,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2022-07,Count,Transactions,1330,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2022-07,Count,Transactions,230,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2022-07,Count,Transactions,170,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2022-07,Count,Transactions,1290,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2022-07,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-07,Count,Transactions,540,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2022-07,Count,Transactions,9370,All,Residential,Not Applicable
+S92000003,Scotland,Country,2022-09,Count,Transactions,1270,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2022-09,Count,Transactions,270,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2022-09,Count,Transactions,1330,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2022-09,Count,Transactions,530,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2022-09,Count,Transactions,130,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2022-09,Count,Transactions,390,Lease,All,Not Applicable
+S92000003,Scotland,Country,2022-09,Count,Transactions,1590,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2022-09,Count,Transactions,280,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2022-09,Count,Transactions,3250,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2022-10,Count,Transactions,130,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2022-09,Count,Transactions,2270,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2022-09,Count,Transactions,10610,All,All,Not Applicable
+S92000003,Scotland,Country,2022-09,Count,Transactions,350,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2022-09,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2022-08,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2022-08,Count,Transactions,2450,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2022-08,Count,Transactions,580,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2022-08,Count,Transactions,1480,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2022-08,Count,Transactions,1360,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2022-08,Count,Transactions,10420,Conveyance,Residential,All
+S92000003,Scotland,Country,2022-08,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-09,Count,Transactions,9340,All,Residential,Not Applicable
+S92000003,Scotland,Country,2022-09,Count,Transactions,150,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2022-09,Count,Transactions,3040,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-09,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-08,Count,Transactions,11780,All,All,Not Applicable
+S92000003,Scotland,Country,2022-09,Count,Transactions,9330,Conveyance,Residential,All
+S92000003,Scotland,Country,2023-04,Count,Transactions,180,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2023-04,Count,Transactions,1110,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2023-05,Count,Transactions,150,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2023-05,Count,Transactions,380,Lease,All,Not Applicable
+S92000003,Scotland,Country,2023-04,Count,Transactions,7430,Conveyance,Residential,All
+S92000003,Scotland,Country,2023-04,Count,Transactions,1360,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2023-04,Count,Transactions,990,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2023-05,Count,Transactions,80,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2023-05,Count,Transactions,1310,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2023-05,Count,Transactions,8050,All,Residential,Not Applicable
+S92000003,Scotland,Country,2023-05,Count,Transactions,1810,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2023-05,Count,Transactions,2910,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2023-05,Count,Transactions,330,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2023-05,Count,Transactions,2690,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2023-04,Count,Transactions,1800,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2023-04,Count,Transactions,310,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2023-04,Count,Transactions,60,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2023-04,Count,Transactions,2440,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2023-04,Count,Transactions,2830,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2023-04,Count,Transactions,420,Lease,All,Not Applicable
+S92000003,Scotland,Country,2023-04,Count,Transactions,300,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2023-04,Count,Transactions,630,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2023-04,Count,Transactions,8790,All,All,Not Applicable
+S92000003,Scotland,Country,2023-04,Count,Transactions,100,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2023-04,Count,Transactions,7430,All,Residential,Not Applicable
+S92000003,Scotland,Country,2023-04,Count,Transactions,100,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2023-04,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2023-06,Count,Transactions,1310,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2023-06,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2023-06,Count,Transactions,100,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2023-06,Count,Transactions,280,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2023-06,Count,Transactions,3050,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2023-06,Count,Transactions,1440,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2023-06,Count,Transactions,20,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2023-06,Count,Transactions,10220,All,All,Not Applicable
+S92000003,Scotland,Country,2023-06,Count,Transactions,160,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2023-06,Count,Transactions,8780,All,Residential,Not Applicable
+S92000003,Scotland,Country,2023-06,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2023-06,Count,Transactions,480,Lease,All,Not Applicable
+S92000003,Scotland,Country,2023-06,Count,Transactions,400,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2023-06,Count,Transactions,1980,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2023-05,Count,Transactions,9290,All,All,Not Applicable
+S92000003,Scotland,Country,2023-05,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2023-05,Count,Transactions,530,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2023-05,Count,Transactions,70,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2023-05,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2023-05,Count,Transactions,1240,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2023-05,Count,Transactions,1070,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2023-06,Count,Transactions,1500,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2023-06,Count,Transactions,2820,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2023-06,Count,Transactions,8780,Conveyance,Residential,All
+S92000003,Scotland,Country,2023-05,Count,Transactions,250,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2023-05,Count,Transactions,8050,Conveyance,Residential,All
+S92000003,Scotland,Country,2023-06,Count,Transactions,570,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2023-02,Count,Transactions,410,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2023-01,Count,Transactions,5710,Conveyance,Residential,All
+S92000003,Scotland,Country,2023-02,Count,Transactions,1270,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2023-02,Count,Transactions,120,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2023-01,Count,Transactions,920,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2023-01,Count,Transactions,1470,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2023-01,Count,Transactions,70,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2023-02,Count,Transactions,60,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2023-02,Count,Transactions,690,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2023-02,Count,Transactions,5720,Conveyance,Residential,All
+S92000003,Scotland,Country,2023-02,Count,Transactions,60,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2023-02,Count,Transactions,130,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2023-02,Count,Transactions,490,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2023-02,Count,Transactions,370,Lease,All,Not Applicable
+S92000003,Scotland,Country,2023-01,Count,Transactions,1230,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2023-01,Count,Transactions,5710,All,Residential,Not Applicable
+S92000003,Scotland,Country,2023-01,Count,Transactions,120,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2023-01,Count,Transactions,430,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2023-01,Count,Transactions,190,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2023-01,Count,Transactions,470,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2023-01,Count,Transactions,60,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2023-01,Count,Transactions,1820,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2023-01,Count,Transactions,730,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2023-01,Count,Transactions,340,Lease,All,Not Applicable
+S92000003,Scotland,Country,2023-01,Count,Transactions,6950,All,All,Not Applicable
+S92000003,Scotland,Country,2023-01,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2023-01,Count,Transactions,140,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2023-03,Count,Transactions,1980,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2023-03,Count,Transactions,410,Lease,All,Not Applicable
+S92000003,Scotland,Country,2023-03,Count,Transactions,390,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2023-03,Count,Transactions,120,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2023-03,Count,Transactions,1090,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2023-03,Count,Transactions,80,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2023-03,Count,Transactions,930,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2023-03,Count,Transactions,1530,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2023-03,Count,Transactions,2980,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2023-03,Count,Transactions,320,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2023-03,Count,Transactions,130,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2023-03,Count,Transactions,9030,All,All,Not Applicable
+S92000003,Scotland,Country,2023-03,Count,Transactions,60,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2023-02,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2023-02,Count,Transactions,2370,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2023-02,Count,Transactions,1710,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2023-02,Count,Transactions,900,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2023-02,Count,Transactions,1450,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2023-02,Count,Transactions,5720,All,Residential,Not Applicable
+S92000003,Scotland,Country,2023-02,Count,Transactions,6990,All,All,Not Applicable
+S92000003,Scotland,Country,2023-03,Count,Transactions,720,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2023-03,Count,Transactions,7500,Conveyance,Residential,All
+S92000003,Scotland,Country,2023-03,Count,Transactions,7510,All,Residential,Not Applicable
+S92000003,Scotland,Country,2023-03,Count,Transactions,220,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2023-02,Count,Transactions,250,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2023-03,Count,Transactions,2430,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-11,Count,Transactions,10350,All,Residential,Not Applicable
+S92000003,Scotland,Country,2021-11,Count,Transactions,1430,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2021-11,Count,Transactions,370,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2021-11,Count,Transactions,110,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2021-10,Count,Transactions,590,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2021-10,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2021-10,Count,Transactions,10040,Conveyance,Residential,All
+S92000003,Scotland,Country,2021-11,Count,Transactions,1350,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2021-11,Count,Transactions,370,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2021-11,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2021-11,Count,Transactions,440,Lease,All,Not Applicable
+S92000003,Scotland,Country,2021-11,Count,Transactions,220,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2021-11,Count,Transactions,3880,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2021-11,Count,Transactions,11780,All,All,Not Applicable
+S92000003,Scotland,Country,2021-10,Count,Transactions,210,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2021-10,Count,Transactions,11430,All,All,Not Applicable
+S92000003,Scotland,Country,2021-10,Count,Transactions,350,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2021-10,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-10,Count,Transactions,110,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2021-10,Count,Transactions,2280,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2021-10,Count,Transactions,370,Lease,All,Not Applicable
+S92000003,Scotland,Country,2021-10,Count,Transactions,1280,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2021-10,Count,Transactions,1470,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2021-10,Count,Transactions,3300,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-10,Count,Transactions,430,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2021-10,Count,Transactions,1390,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2021-10,Count,Transactions,240,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2021-12,Count,Transactions,110,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-12,Count,Transactions,350,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2021-12,Count,Transactions,360,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2021-12,Count,Transactions,60,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2021-12,Count,Transactions,3480,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-12,Count,Transactions,250,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2021-12,Count,Transactions,10190,All,Residential,Not Applicable
+S92000003,Scotland,Country,2021-12,Count,Transactions,2390,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2021-12,Count,Transactions,1430,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2022-01,Count,Transactions,7690,All,All,Not Applicable
+S92000003,Scotland,Country,2022-01,Count,Transactions,310,Lease,All,Not Applicable
+S92000003,Scotland,Country,2021-12,Count,Transactions,700,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2021-12,Count,Transactions,3840,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2021-12,Count,Transactions,11620,All,All,Not Applicable
+S92000003,Scotland,Country,2021-11,Count,Transactions,1470,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2021-11,Count,Transactions,3540,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-11,Count,Transactions,630,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2021-11,Count,Transactions,10340,Conveyance,Residential,All
+S92000003,Scotland,Country,2021-11,Count,Transactions,280,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2021-11,Count,Transactions,2490,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2021-11,Count,Transactions,100,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-12,Count,Transactions,270,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2021-12,Count,Transactions,380,Lease,All,Not Applicable
+S92000003,Scotland,Country,2021-12,Count,Transactions,1410,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2021-12,Count,Transactions,10190,Conveyance,Residential,All
+S92000003,Scotland,Country,2021-12,Count,Transactions,100,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2021-12,Count,Transactions,1360,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2021-08,Count,Transactions,2350,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2021-08,Count,Transactions,3570,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-08,Count,Transactions,110,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2021-08,Count,Transactions,1490,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2021-07,Count,Transactions,410,Lease,All,Not Applicable
+S92000003,Scotland,Country,2021-07,Count,Transactions,1390,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2021-07,Count,Transactions,2240,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2021-08,Count,Transactions,1440,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2021-08,Count,Transactions,560,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2021-08,Count,Transactions,380,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2021-08,Count,Transactions,280,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2021-08,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2021-08,Count,Transactions,1310,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2021-08,Count,Transactions,360,Lease,All,Not Applicable
+S92000003,Scotland,Country,2021-07,Count,Transactions,590,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2021-07,Count,Transactions,1410,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2021-07,Count,Transactions,10830,Conveyance,Residential,All
+S92000003,Scotland,Country,2021-07,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2021-07,Count,Transactions,12320,All,All,Not Applicable
+S92000003,Scotland,Country,2021-07,Count,Transactions,3550,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-07,Count,Transactions,110,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2021-07,Count,Transactions,4370,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2021-07,Count,Transactions,290,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2021-07,Count,Transactions,500,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2021-07,Count,Transactions,390,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2021-07,Count,Transactions,1480,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2021-07,Count,Transactions,170,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2021-09,Count,Transactions,2170,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2021-09,Count,Transactions,560,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2021-09,Count,Transactions,120,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2021-09,Count,Transactions,250,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2021-09,Count,Transactions,3200,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-09,Count,Transactions,11010,All,All,Not Applicable
+S92000003,Scotland,Country,2021-09,Count,Transactions,3830,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2021-09,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-09,Count,Transactions,340,Lease,All,Not Applicable
+S92000003,Scotland,Country,2021-10,Count,Transactions,10050,All,Residential,Not Applicable
+S92000003,Scotland,Country,2021-10,Count,Transactions,3880,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2021-09,Count,Transactions,1270,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2021-09,Count,Transactions,300,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2021-09,Count,Transactions,370,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2021-08,Count,Transactions,12080,All,All,Not Applicable
+S92000003,Scotland,Country,2021-08,Count,Transactions,400,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2021-08,Count,Transactions,10770,All,Residential,Not Applicable
+S92000003,Scotland,Country,2021-08,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2021-08,Count,Transactions,10760,Conveyance,Residential,All
+S92000003,Scotland,Country,2021-08,Count,Transactions,4150,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2021-08,Count,Transactions,150,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2021-09,Count,Transactions,190,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2021-09,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2021-09,Count,Transactions,1360,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2021-09,Count,Transactions,9740,Conveyance,Residential,All
+S92000003,Scotland,Country,2021-09,Count,Transactions,1230,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2021-09,Count,Transactions,9740,All,Residential,Not Applicable
+S92000003,Scotland,Country,2022-05,Count,Transactions,250,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2022-04,Count,Transactions,70,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2022-05,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2022-05,Count,Transactions,2140,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2022-04,Count,Transactions,2060,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2022-04,Count,Transactions,220,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2022-04,Count,Transactions,9870,All,All,Not Applicable
+S92000003,Scotland,Country,2022-05,Count,Transactions,1290,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2022-05,Count,Transactions,200,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2022-05,Count,Transactions,3400,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2022-05,Count,Transactions,310,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2022-05,Count,Transactions,9130,All,Residential,Not Applicable
+S92000003,Scotland,Country,2022-05,Count,Transactions,580,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2022-05,Count,Transactions,1290,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2022-04,Count,Transactions,410,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2022-04,Count,Transactions,1130,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2022-04,Count,Transactions,110,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-04,Count,Transactions,2760,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-04,Count,Transactions,8300,Conveyance,Residential,All
+S92000003,Scotland,Country,2022-04,Count,Transactions,90,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2022-04,Count,Transactions,1120,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2022-04,Count,Transactions,230,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2022-04,Count,Transactions,1570,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2022-04,Count,Transactions,350,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2022-04,Count,Transactions,3220,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2022-04,Count,Transactions,760,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2022-04,Count,Transactions,8300,All,Residential,Not Applicable
+S92000003,Scotland,Country,2022-06,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2022-06,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-06,Count,Transactions,2010,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2022-06,Count,Transactions,3080,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2022-06,Count,Transactions,180,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2022-06,Count,Transactions,260,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2022-06,Count,Transactions,9910,All,All,Not Applicable
+S92000003,Scotland,Country,2022-06,Count,Transactions,8530,Conveyance,Residential,All
+S92000003,Scotland,Country,2022-06,Count,Transactions,1360,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2022-07,Count,Transactions,9370,Conveyance,Residential,All
+S92000003,Scotland,Country,2022-06,Count,Transactions,580,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2022-06,Count,Transactions,260,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2022-06,Count,Transactions,1220,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2022-06,Count,Transactions,8530,All,Residential,Not Applicable
+S92000003,Scotland,Country,2022-05,Count,Transactions,400,Lease,All,Not Applicable
+S92000003,Scotland,Country,2022-05,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-05,Count,Transactions,3060,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-05,Count,Transactions,10540,All,All,Not Applicable
+S92000003,Scotland,Country,2022-05,Count,Transactions,9130,Conveyance,Residential,All
+S92000003,Scotland,Country,2022-05,Count,Transactions,440,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2022-05,Count,Transactions,90,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2022-06,Count,Transactions,370,Lease,All,Not Applicable
+S92000003,Scotland,Country,2022-06,Count,Transactions,1380,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2022-06,Count,Transactions,2760,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-06,Count,Transactions,440,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2022-05,Count,Transactions,1420,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2022-06,Count,Transactions,100,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2022-02,Count,Transactions,1250,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2022-02,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2022-02,Count,Transactions,2830,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2022-02,Count,Transactions,810,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2022-01,Count,Transactions,60,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-01,Count,Transactions,2670,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2022-01,Count,Transactions,1000,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2022-02,Count,Transactions,950,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2022-02,Count,Transactions,80,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2022-02,Count,Transactions,1750,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2022-02,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-02,Count,Transactions,2140,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-02,Count,Transactions,230,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2022-02,Count,Transactions,230,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2022-01,Count,Transactions,1680,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2022-01,Count,Transactions,80,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2022-01,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2022-01,Count,Transactions,6680,Conveyance,Residential,All
+S92000003,Scotland,Country,2022-01,Count,Transactions,260,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2022-01,Count,Transactions,860,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2022-01,Count,Transactions,6690,All,Residential,Not Applicable
+S92000003,Scotland,Country,2022-01,Count,Transactions,210,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2022-01,Count,Transactions,890,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2022-01,Count,Transactions,140,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2022-01,Count,Transactions,210,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2022-01,Count,Transactions,2180,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-01,Count,Transactions,440,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2022-03,Count,Transactions,1680,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2022-03,Count,Transactions,290,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2022-03,Count,Transactions,8230,Conveyance,Residential,All
+S92000003,Scotland,Country,2022-03,Count,Transactions,2160,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2022-03,Count,Transactions,200,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2022-03,Count,Transactions,9920,All,All,Not Applicable
+S92000003,Scotland,Country,2022-03,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2022-03,Count,Transactions,440,Lease,All,Not Applicable
+S92000003,Scotland,Country,2022-03,Count,Transactions,330,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2022-04,Count,Transactions,400,Lease,All,Not Applicable
+S92000003,Scotland,Country,2022-03,Count,Transactions,8240,All,Residential,Not Applicable
+S92000003,Scotland,Country,2022-03,Count,Transactions,3340,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2022-03,Count,Transactions,1070,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2022-02,Count,Transactions,170,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2022-02,Count,Transactions,6810,All,Residential,Not Applicable
+S92000003,Scotland,Country,2022-02,Count,Transactions,8060,All,All,Not Applicable
+S92000003,Scotland,Country,2022-02,Count,Transactions,6810,Conveyance,Residential,All
+S92000003,Scotland,Country,2022-02,Count,Transactions,380,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2022-02,Count,Transactions,510,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2022-02,Count,Transactions,370,Lease,All,Not Applicable
+S92000003,Scotland,Country,2022-03,Count,Transactions,670,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2022-03,Count,Transactions,580,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2022-03,Count,Transactions,2690,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2022-03,Count,Transactions,1050,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2022-03,Count,Transactions,80,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2022-03,Count,Transactions,100,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-11,Count,Transactions,3090,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-11,Count,Transactions,9260,Conveyance,Residential,All
+S92000003,Scotland,Country,2017-11,Count,Transactions,9270,All,Residential,Not Applicable
+S92000003,Scotland,Country,2017-11,Count,Transactions,870,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2017-11,Count,Transactions,60,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2017-11,Count,Transactions,790,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2017-11,Count,Transactions,200,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2017-12,Count,Transactions,280,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2017-12,Count,Transactions,9150,All,Residential,Not Applicable
+S92000003,Scotland,Country,2017-12,Count,Transactions,10240,All,All,Not Applicable
+S92000003,Scotland,Country,2017-12,Count,Transactions,60,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2017-12,Count,Transactions,230,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2017-12,Count,Transactions,3000,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-12,Count,Transactions,440,Lease,All,Not Applicable
+S92000003,Scotland,Country,2017-11,Count,Transactions,1150,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2017-11,Count,Transactions,630,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2017-11,Count,Transactions,290,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2017-11,Count,Transactions,530,Lease,All,Not Applicable
+S92000003,Scotland,Country,2017-10,Count,Transactions,3060,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-10,Count,Transactions,9620,All,Residential,Not Applicable
+S92000003,Scotland,Country,2017-10,Count,Transactions,990,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2017-11,Count,Transactions,10420,All,All,Not Applicable
+S92000003,Scotland,Country,2017-11,Count,Transactions,330,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2017-11,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2017-11,Count,Transactions,2110,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2017-11,Count,Transactions,4460,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2017-11,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-01,Count,Transactions,560,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2018-01,Count,Transactions,1930,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-01,Count,Transactions,550,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2018-01,Count,Transactions,230,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2018-01,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-01,Count,Transactions,1430,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2018-01,Count,Transactions,6040,All,Residential,Not Applicable
+S92000003,Scotland,Country,2018-01,Count,Transactions,40,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2018-01,Count,Transactions,410,Lease,All,Not Applicable
+S92000003,Scotland,Country,2018-01,Count,Transactions,6040,Conveyance,Residential,All
+S92000003,Scotland,Country,2018-01,Count,Transactions,150,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2018-01,Count,Transactions,2970,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2018-01,Count,Transactions,6920,All,All,Not Applicable
+S92000003,Scotland,Country,2018-01,Count,Transactions,470,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2017-12,Count,Transactions,660,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2017-12,Count,Transactions,4330,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2017-12,Count,Transactions,340,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2017-12,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-12,Count,Transactions,1990,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2017-12,Count,Transactions,1090,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2017-12,Count,Transactions,820,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2018-01,Count,Transactions,210,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2018-01,Count,Transactions,880,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2018-01,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2017-12,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2017-12,Count,Transactions,940,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2017-12,Count,Transactions,9140,Conveyance,Residential,All
+S92000003,Scotland,Country,2017-08,Count,Transactions,3290,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-08,Count,Transactions,1000,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2017-08,Count,Transactions,160,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2017-08,Count,Transactions,11120,All,All,Not Applicable
+S92000003,Scotland,Country,2017-08,Count,Transactions,430,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2017-08,Count,Transactions,550,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2017-08,Count,Transactions,460,Lease,All,Not Applicable
+S92000003,Scotland,Country,2017-09,Count,Transactions,10140,All,All,Not Applicable
+S92000003,Scotland,Country,2017-09,Count,Transactions,2890,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-09,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-09,Count,Transactions,910,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2017-08,Count,Transactions,10110,Conveyance,Residential,All
+S92000003,Scotland,Country,2017-08,Count,Transactions,2360,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2017-08,Count,Transactions,970,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2017-07,Count,Transactions,9930,All,Residential,Not Applicable
+S92000003,Scotland,Country,2017-07,Count,Transactions,970,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2017-08,Count,Transactions,10120,All,Residential,Not Applicable
+S92000003,Scotland,Country,2017-07,Count,Transactions,10970,All,All,Not Applicable
+S92000003,Scotland,Country,2017-07,Count,Transactions,270,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2017-07,Count,Transactions,490,Lease,All,Not Applicable
+S92000003,Scotland,Country,2017-07,Count,Transactions,70,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2017-08,Count,Transactions,80,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2017-08,Count,Transactions,4850,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2017-08,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-08,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2017-08,Count,Transactions,280,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2017-08,Count,Transactions,930,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2017-10,Count,Transactions,180,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2017-10,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2017-10,Count,Transactions,540,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2017-10,Count,Transactions,1040,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2017-10,Count,Transactions,2210,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2017-10,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-10,Count,Transactions,350,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2017-10,Count,Transactions,250,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2017-10,Count,Transactions,780,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2017-10,Count,Transactions,9620,Conveyance,Residential,All
+S92000003,Scotland,Country,2017-10,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2017-10,Count,Transactions,4740,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2017-10,Count,Transactions,10660,All,All,Not Applicable
+S92000003,Scotland,Country,2017-10,Count,Transactions,500,Lease,All,Not Applicable
+S92000003,Scotland,Country,2017-09,Count,Transactions,400,Lease,All,Not Applicable
+S92000003,Scotland,Country,2017-09,Count,Transactions,380,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2017-09,Count,Transactions,2110,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2017-09,Count,Transactions,60,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2017-09,Count,Transactions,780,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2017-09,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2017-09,Count,Transactions,150,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2017-09,Count,Transactions,9230,All,Residential,Not Applicable
+S92000003,Scotland,Country,2017-09,Count,Transactions,4600,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2017-09,Count,Transactions,510,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2017-09,Count,Transactions,260,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2017-09,Count,Transactions,9230,Conveyance,Residential,All
+S92000003,Scotland,Country,2017-09,Count,Transactions,900,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2015-08,Count,Transactions,9520,All,Residential,Not Applicable
+S92000003,Scotland,Country,2015-08,Count,Transactions,10420,All,All,Not Applicable
+S92000003,Scotland,Country,2015-08,Count,Transactions,180,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2015-08,Count,Transactions,510,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2015-08,Count,Transactions,750,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2015-08,Count,Transactions,9510,Conveyance,Residential,All
+S92000003,Scotland,Country,2015-08,Count,Transactions,4840,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2015-09,Count,Transactions,40,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2015-09,Count,Transactions,240,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2015-09,Count,Transactions,10000,All,All,Not Applicable
+S92000003,Scotland,Country,2015-09,Count,Transactions,4710,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2015-09,Count,Transactions,9020,Conveyance,Residential,All
+S92000003,Scotland,Country,2015-08,Count,Transactions,900,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2015-09,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2015-07,Count,Transactions,9910,All,Residential,Not Applicable
+S92000003,Scotland,Country,2015-07,Count,Transactions,460,Lease,All,Not Applicable
+S92000003,Scotland,Country,2015-08,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2015-07,Count,Transactions,900,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2015-07,Count,Transactions,720,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2015-07,Count,Transactions,3260,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-07,Count,Transactions,960,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2015-08,Count,Transactions,3020,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-08,Count,Transactions,390,Lease,All,Not Applicable
+S92000003,Scotland,Country,2015-08,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-08,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2015-08,Count,Transactions,860,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2015-08,Count,Transactions,230,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2015-10,Count,Transactions,10620,All,All,Not Applicable
+S92000003,Scotland,Country,2015-10,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2015-10,Count,Transactions,230,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2015-10,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-10,Count,Transactions,3100,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-10,Count,Transactions,440,Lease,All,Not Applicable
+S92000003,Scotland,Country,2015-10,Count,Transactions,180,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2015-11,Count,Transactions,250,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2015-10,Count,Transactions,9670,Conveyance,Residential,All
+S92000003,Scotland,Country,2015-11,Count,Transactions,2960,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-11,Count,Transactions,190,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2015-10,Count,Transactions,760,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2015-10,Count,Transactions,30,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2015-10,Count,Transactions,710,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2015-09,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-09,Count,Transactions,2870,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-09,Count,Transactions,760,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2015-09,Count,Transactions,470,Lease,All,Not Applicable
+S92000003,Scotland,Country,2015-09,Count,Transactions,170,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2015-09,Count,Transactions,500,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2015-09,Count,Transactions,9030,All,Residential,Not Applicable
+S92000003,Scotland,Country,2015-10,Count,Transactions,950,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2015-10,Count,Transactions,9670,All,Residential,Not Applicable
+S92000003,Scotland,Country,2015-10,Count,Transactions,520,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2015-09,Count,Transactions,640,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2015-09,Count,Transactions,960,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2015-10,Count,Transactions,5070,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2015-05,Count,Transactions,460,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2015-05,Count,Transactions,440,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2015-05,Count,Transactions,130,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2015-05,Count,Transactions,7810,All,Residential,Not Applicable
+S92000003,Scotland,Country,2015-04,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2015-04,Count,Transactions,2440,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-05,Count,Transactions,350,Lease,All,Not Applicable
+S92000003,Scotland,Country,2015-05,Count,Transactions,810,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2015-05,Count,Transactions,7800,Conveyance,Residential,All
+S92000003,Scotland,Country,2015-05,Count,Transactions,10,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2015-05,Count,Transactions,2420,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-05,Count,Transactions,8610,All,All,Not Applicable
+S92000003,Scotland,Country,2015-05,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2015-05,Count,Transactions,220,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2015-04,Count,Transactions,610,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2015-04,Count,Transactions,50,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-04,Count,Transactions,610,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2015-04,Count,Transactions,180,Lease,All,Not Applicable
+S92000003,Scotland,Country,2015-04,Count,Transactions,200,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2015-04,Count,Transactions,6880,Conveyance,Residential,All
+S92000003,Scotland,Country,2015-04,Count,Transactions,7480,All,All,Not Applicable
+S92000003,Scotland,Country,2015-04,Count,Transactions,130,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2015-04,Count,Transactions,3610,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2015-04,Count,Transactions,6880,All,Residential,Not Applicable
+S92000003,Scotland,Country,2015-04,Count,Transactions,0,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2015-04,Count,Transactions,430,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2015-04,Count,Transactions,220,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2015-06,Count,Transactions,5230,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2015-06,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-07,Count,Transactions,240,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2015-07,Count,Transactions,60,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-06,Count,Transactions,870,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2015-06,Count,Transactions,950,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2015-06,Count,Transactions,500,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2015-07,Count,Transactions,510,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2015-07,Count,Transactions,10870,All,All,Not Applicable
+S92000003,Scotland,Country,2015-07,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2015-07,Count,Transactions,9910,Conveyance,Residential,All
+S92000003,Scotland,Country,2015-07,Count,Transactions,5000,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2015-07,Count,Transactions,20,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2015-07,Count,Transactions,170,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2015-06,Count,Transactions,260,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2015-06,Count,Transactions,10020,All,Residential,Not Applicable
+S92000003,Scotland,Country,2015-06,Count,Transactions,140,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2015-06,Count,Transactions,10010,Conveyance,Residential,All
+S92000003,Scotland,Country,2015-05,Count,Transactions,670,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2015-05,Count,Transactions,4270,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2015-05,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-06,Count,Transactions,700,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2015-06,Count,Transactions,450,Lease,All,Not Applicable
+S92000003,Scotland,Country,2015-06,Count,Transactions,30,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2015-06,Count,Transactions,3190,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-06,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2015-06,Count,Transactions,10960,All,All,Not Applicable
+S92000003,Scotland,Country,2016-11,Count,Transactions,820,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2016-11,Count,Transactions,9220,Conveyance,Residential,All
+S92000003,Scotland,Country,2016-11,Count,Transactions,4770,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2016-11,Count,Transactions,9230,All,Residential,Not Applicable
+S92000003,Scotland,Country,2016-11,Count,Transactions,350,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2016-10,Count,Transactions,390,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2016-11,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-11,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2016-11,Count,Transactions,290,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2016-11,Count,Transactions,2220,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2016-11,Count,Transactions,10290,All,All,Not Applicable
+S92000003,Scotland,Country,2016-11,Count,Transactions,1060,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2016-11,Count,Transactions,190,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2016-11,Count,Transactions,2880,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-10,Count,Transactions,9150,Conveyance,Residential,All
+S92000003,Scotland,Country,2016-10,Count,Transactions,250,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2016-10,Count,Transactions,820,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2016-10,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-10,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2016-10,Count,Transactions,510,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2016-10,Count,Transactions,10120,All,All,Not Applicable
+S92000003,Scotland,Country,2016-10,Count,Transactions,9150,All,Residential,Not Applicable
+S92000003,Scotland,Country,2016-10,Count,Transactions,470,Lease,All,Not Applicable
+S92000003,Scotland,Country,2016-10,Count,Transactions,4800,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2016-10,Count,Transactions,2810,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-10,Count,Transactions,60,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2016-10,Count,Transactions,160,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2016-12,Count,Transactions,3070,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-12,Count,Transactions,760,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2016-12,Count,Transactions,9470,Conveyance,Residential,All
+S92000003,Scotland,Country,2016-12,Count,Transactions,720,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2016-12,Count,Transactions,4770,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2016-12,Count,Transactions,10600,All,All,Not Applicable
+S92000003,Scotland,Country,2016-12,Count,Transactions,1120,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2017-01,Count,Transactions,3340,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2017-01,Count,Transactions,470,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2017-01,Count,Transactions,20,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2017-01,Count,Transactions,230,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2017-01,Count,Transactions,490,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2016-12,Count,Transactions,240,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2017-01,Count,Transactions,1500,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2016-12,Count,Transactions,110,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-11,Count,Transactions,40,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2016-12,Count,Transactions,840,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2016-12,Count,Transactions,9480,All,Residential,Not Applicable
+S92000003,Scotland,Country,2016-11,Count,Transactions,590,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2016-11,Count,Transactions,480,Lease,All,Not Applicable
+S92000003,Scotland,Country,2016-11,Count,Transactions,710,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2016-12,Count,Transactions,2200,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2016-12,Count,Transactions,40,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2016-12,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2016-12,Count,Transactions,330,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2016-12,Count,Transactions,410,Lease,All,Not Applicable
+S92000003,Scotland,Country,2016-12,Count,Transactions,360,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2016-08,Count,Transactions,9550,Conveyance,Residential,All
+S92000003,Scotland,Country,2016-07,Count,Transactions,810,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2016-08,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2016-08,Count,Transactions,850,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2016-07,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2016-07,Count,Transactions,9090,Conveyance,Residential,All
+S92000003,Scotland,Country,2016-07,Count,Transactions,280,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2016-08,Count,Transactions,750,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2016-08,Count,Transactions,2030,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2016-08,Count,Transactions,480,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2016-08,Count,Transactions,360,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2016-08,Count,Transactions,490,Lease,All,Not Applicable
+S92000003,Scotland,Country,2016-08,Count,Transactions,130,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2016-08,Count,Transactions,4910,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2016-07,Count,Transactions,1880,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2016-07,Count,Transactions,9100,All,Residential,Not Applicable
+S92000003,Scotland,Country,2016-07,Count,Transactions,60,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-07,Count,Transactions,510,Lease,All,Not Applicable
+S92000003,Scotland,Country,2016-07,Count,Transactions,360,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2016-07,Count,Transactions,1030,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2016-07,Count,Transactions,10120,All,All,Not Applicable
+S92000003,Scotland,Country,2016-07,Count,Transactions,2920,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-07,Count,Transactions,40,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2016-07,Count,Transactions,730,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2016-07,Count,Transactions,530,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2016-07,Count,Transactions,160,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2016-07,Count,Transactions,4610,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2016-09,Count,Transactions,130,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2016-09,Count,Transactions,460,Lease,All,Not Applicable
+S92000003,Scotland,Country,2016-09,Count,Transactions,8650,All,Residential,Not Applicable
+S92000003,Scotland,Country,2016-09,Count,Transactions,270,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2016-09,Count,Transactions,9620,All,All,Not Applicable
+S92000003,Scotland,Country,2016-09,Count,Transactions,1970,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2016-09,Count,Transactions,4370,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2016-10,Count,Transactions,970,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2016-09,Count,Transactions,350,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2016-10,Count,Transactions,2180,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2016-10,Count,Transactions,660,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2016-09,Count,Transactions,2790,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-09,Count,Transactions,980,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2016-09,Count,Transactions,520,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2016-08,Count,Transactions,960,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2016-08,Count,Transactions,9560,All,Residential,Not Applicable
+S92000003,Scotland,Country,2016-08,Count,Transactions,2990,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-08,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2016-08,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-08,Count,Transactions,10510,All,All,Not Applicable
+S92000003,Scotland,Country,2016-08,Count,Transactions,230,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2016-09,Count,Transactions,40,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2016-09,Count,Transactions,780,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2016-09,Count,Transactions,670,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2016-09,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-09,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2016-09,Count,Transactions,8640,Conveyance,Residential,All
+S92000003,Scotland,Country,2017-05,Count,Transactions,150,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2017-05,Count,Transactions,310,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2017-05,Count,Transactions,2120,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2017-05,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-05,Count,Transactions,480,Lease,All,Not Applicable
+S92000003,Scotland,Country,2017-05,Count,Transactions,1050,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2017-05,Count,Transactions,340,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2017-05,Count,Transactions,10470,All,All,Not Applicable
+S92000003,Scotland,Country,2017-05,Count,Transactions,860,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2017-06,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2017-05,Count,Transactions,730,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2017-05,Count,Transactions,4760,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2017-05,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2017-05,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2017-04,Count,Transactions,4240,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2017-04,Count,Transactions,320,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2017-04,Count,Transactions,1980,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2017-04,Count,Transactions,8290,All,Residential,Not Applicable
+S92000003,Scotland,Country,2017-04,Count,Transactions,110,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-04,Count,Transactions,1190,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2017-04,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2017-05,Count,Transactions,590,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2017-05,Count,Transactions,9400,Conveyance,Residential,All
+S92000003,Scotland,Country,2017-05,Count,Transactions,9430,All,Residential,Not Applicable
+S92000003,Scotland,Country,2017-04,Count,Transactions,8280,Conveyance,Residential,All
+S92000003,Scotland,Country,2017-04,Count,Transactions,330,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2017-05,Count,Transactions,3010,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-07,Count,Transactions,2160,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2017-07,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-07,Count,Transactions,9920,Conveyance,Residential,All
+S92000003,Scotland,Country,2017-07,Count,Transactions,1040,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2017-06,Count,Transactions,4910,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2017-06,Count,Transactions,10000,Conveyance,Residential,All
+S92000003,Scotland,Country,2017-06,Count,Transactions,170,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2017-07,Count,Transactions,910,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2017-07,Count,Transactions,560,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2017-07,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2017-07,Count,Transactions,4640,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2017-07,Count,Transactions,160,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2017-07,Count,Transactions,3330,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-07,Count,Transactions,410,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2017-06,Count,Transactions,280,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2017-06,Count,Transactions,2220,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2017-06,Count,Transactions,1040,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2017-06,Count,Transactions,380,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2017-06,Count,Transactions,11050,All,All,Not Applicable
+S92000003,Scotland,Country,2017-06,Count,Transactions,3220,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-06,Count,Transactions,10010,All,Residential,Not Applicable
+S92000003,Scotland,Country,2017-06,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-06,Count,Transactions,1010,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2017-06,Count,Transactions,570,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2017-06,Count,Transactions,810,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2017-06,Count,Transactions,480,Lease,All,Not Applicable
+S92000003,Scotland,Country,2017-06,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2017-02,Count,Transactions,470,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2017-02,Count,Transactions,7020,All,All,Not Applicable
+S92000003,Scotland,Country,2017-02,Count,Transactions,490,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2017-02,Count,Transactions,60,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-02,Count,Transactions,6110,Conveyance,Residential,All
+S92000003,Scotland,Country,2017-02,Count,Transactions,910,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2017-02,Count,Transactions,240,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2017-02,Count,Transactions,3360,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2017-02,Count,Transactions,530,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2017-02,Count,Transactions,20,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2017-02,Count,Transactions,1710,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-02,Count,Transactions,6120,All,Residential,Not Applicable
+S92000003,Scotland,Country,2017-02,Count,Transactions,20,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2017-02,Count,Transactions,150,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2017-01,Count,Transactions,7140,All,All,Not Applicable
+S92000003,Scotland,Country,2017-01,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2017-01,Count,Transactions,1930,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-01,Count,Transactions,890,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2017-01,Count,Transactions,390,Lease,All,Not Applicable
+S92000003,Scotland,Country,2017-01,Count,Transactions,6250,All,Residential,Not Applicable
+S92000003,Scotland,Country,2017-01,Count,Transactions,510,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2017-02,Count,Transactions,240,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2017-01,Count,Transactions,60,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-02,Count,Transactions,1530,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2017-01,Count,Transactions,150,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2017-01,Count,Transactions,6250,Conveyance,Residential,All
+S92000003,Scotland,Country,2017-01,Count,Transactions,260,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2017-03,Count,Transactions,8300,All,Residential,Not Applicable
+S92000003,Scotland,Country,2017-03,Count,Transactions,230,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2017-04,Count,Transactions,720,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2017-04,Count,Transactions,480,Lease,All,Not Applicable
+S92000003,Scotland,Country,2017-03,Count,Transactions,530,Lease,All,Not Applicable
+S92000003,Scotland,Country,2017-03,Count,Transactions,670,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2017-03,Count,Transactions,320,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2017-04,Count,Transactions,2610,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-04,Count,Transactions,30,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2017-04,Count,Transactions,680,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2017-04,Count,Transactions,720,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2017-04,Count,Transactions,9480,All,All,Not Applicable
+S92000003,Scotland,Country,2017-04,Count,Transactions,230,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2017-03,Count,Transactions,2010,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2017-03,Count,Transactions,1230,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2017-03,Count,Transactions,100,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2017-03,Count,Transactions,40,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2017-03,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2017-02,Count,Transactions,440,Lease,All,Not Applicable
+S92000003,Scotland,Country,2017-03,Count,Transactions,330,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2017-03,Count,Transactions,9530,All,All,Not Applicable
+S92000003,Scotland,Country,2017-03,Count,Transactions,570,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2017-03,Count,Transactions,8300,Conveyance,Residential,All
+S92000003,Scotland,Country,2017-03,Count,Transactions,710,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2017-03,Count,Transactions,4490,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2017-03,Count,Transactions,2540,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-11,Count,Transactions,1530,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2018-11,Count,Transactions,490,Lease,All,Not Applicable
+S92000003,Scotland,Country,2018-11,Count,Transactions,670,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2018-11,Count,Transactions,390,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2018-11,Count,Transactions,3100,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-10,Count,Transactions,540,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2018-11,Count,Transactions,980,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2018-11,Count,Transactions,2250,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2018-11,Count,Transactions,890,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2018-11,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-11,Count,Transactions,310,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2018-11,Count,Transactions,9450,Conveyance,Residential,All
+S92000003,Scotland,Country,2018-11,Count,Transactions,9460,All,Residential,Not Applicable
+S92000003,Scotland,Country,2018-11,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2018-10,Count,Transactions,70,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2018-10,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2018-10,Count,Transactions,180,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2018-10,Count,Transactions,410,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2018-10,Count,Transactions,10180,All,Residential,Not Applicable
+S92000003,Scotland,Country,2018-10,Count,Transactions,240,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2018-10,Count,Transactions,10170,Conveyance,Residential,All
+S92000003,Scotland,Country,2018-10,Count,Transactions,480,Lease,All,Not Applicable
+S92000003,Scotland,Country,2018-10,Count,Transactions,4760,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2018-10,Count,Transactions,1000,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2018-10,Count,Transactions,11620,All,All,Not Applicable
+S92000003,Scotland,Country,2018-10,Count,Transactions,3440,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-10,Count,Transactions,900,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2018-12,Count,Transactions,9080,All,Residential,Not Applicable
+S92000003,Scotland,Country,2018-12,Count,Transactions,1010,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2018-12,Count,Transactions,10470,All,All,Not Applicable
+S92000003,Scotland,Country,2018-12,Count,Transactions,340,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2018-12,Count,Transactions,710,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2018-12,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2018-12,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2019-01,Count,Transactions,620,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2019-01,Count,Transactions,6910,All,Residential,Not Applicable
+S92000003,Scotland,Country,2019-01,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2019-01,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2018-12,Count,Transactions,310,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2018-12,Count,Transactions,3160,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-12,Count,Transactions,100,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-11,Count,Transactions,10990,All,All,Not Applicable
+S92000003,Scotland,Country,2018-11,Count,Transactions,220,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2018-12,Count,Transactions,2050,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2018-12,Count,Transactions,9070,Conveyance,Residential,All
+S92000003,Scotland,Country,2018-11,Count,Transactions,420,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2018-11,Count,Transactions,4420,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2018-11,Count,Transactions,60,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2018-12,Count,Transactions,3990,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2018-12,Count,Transactions,1390,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2018-12,Count,Transactions,310,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2018-12,Count,Transactions,380,Lease,All,Not Applicable
+S92000003,Scotland,Country,2018-12,Count,Transactions,240,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2018-12,Count,Transactions,870,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2018-08,Count,Transactions,2350,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2018-08,Count,Transactions,10000,All,Residential,Not Applicable
+S92000003,Scotland,Country,2018-08,Count,Transactions,600,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2018-08,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-08,Count,Transactions,410,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2018-07,Count,Transactions,920,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2018-08,Count,Transactions,11410,All,All,Not Applicable
+S92000003,Scotland,Country,2018-08,Count,Transactions,4660,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2018-08,Count,Transactions,940,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2018-08,Count,Transactions,70,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2018-08,Count,Transactions,410,Lease,All,Not Applicable
+S92000003,Scotland,Country,2018-08,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2018-08,Count,Transactions,440,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2018-08,Count,Transactions,280,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2018-07,Count,Transactions,1050,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2018-07,Count,Transactions,10110,Conveyance,Residential,All
+S92000003,Scotland,Country,2018-07,Count,Transactions,4590,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2018-07,Count,Transactions,2130,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2018-07,Count,Transactions,200,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2018-07,Count,Transactions,290,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2018-07,Count,Transactions,430,Lease,All,Not Applicable
+S92000003,Scotland,Country,2018-07,Count,Transactions,420,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2018-07,Count,Transactions,3500,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-07,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2018-07,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-07,Count,Transactions,330,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2018-07,Count,Transactions,11480,All,All,Not Applicable
+S92000003,Scotland,Country,2018-09,Count,Transactions,70,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2018-09,Count,Transactions,4060,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2018-09,Count,Transactions,1230,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2018-09,Count,Transactions,840,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2018-09,Count,Transactions,530,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2018-09,Count,Transactions,2930,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-09,Count,Transactions,920,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2018-10,Count,Transactions,430,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2018-10,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-10,Count,Transactions,1440,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2018-10,Count,Transactions,2290,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2018-09,Count,Transactions,2050,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2018-09,Count,Transactions,360,Lease,All,Not Applicable
+S92000003,Scotland,Country,2018-09,Count,Transactions,380,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2018-08,Count,Transactions,3310,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-08,Count,Transactions,1400,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2018-09,Count,Transactions,260,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2018-09,Count,Transactions,8840,All,Residential,Not Applicable
+S92000003,Scotland,Country,2018-08,Count,Transactions,190,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2018-08,Count,Transactions,1000,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2018-08,Count,Transactions,9980,Conveyance,Residential,All
+S92000003,Scotland,Country,2018-09,Count,Transactions,8830,Conveyance,Residential,All
+S92000003,Scotland,Country,2018-09,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2018-09,Count,Transactions,10070,All,All,Not Applicable
+S92000003,Scotland,Country,2018-09,Count,Transactions,350,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2018-09,Count,Transactions,150,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2018-09,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-05,Count,Transactions,370,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2019-05,Count,Transactions,10490,All,All,Not Applicable
+S92000003,Scotland,Country,2019-05,Count,Transactions,260,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2019-05,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-04,Count,Transactions,10370,All,All,Not Applicable
+S92000003,Scotland,Country,2019-04,Count,Transactions,380,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2019-05,Count,Transactions,930,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2019-05,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2019-05,Count,Transactions,780,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2019-05,Count,Transactions,60,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2019-05,Count,Transactions,9110,Conveyance,Residential,All
+S92000003,Scotland,Country,2019-05,Count,Transactions,430,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2019-05,Count,Transactions,9110,All,Residential,Not Applicable
+S92000003,Scotland,Country,2019-05,Count,Transactions,3040,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-04,Count,Transactions,940,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2019-04,Count,Transactions,1540,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2019-04,Count,Transactions,120,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-04,Count,Transactions,720,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2019-04,Count,Transactions,40,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2019-04,Count,Transactions,440,Lease,All,Not Applicable
+S92000003,Scotland,Country,2019-04,Count,Transactions,8830,Conveyance,Residential,All
+S92000003,Scotland,Country,2019-04,Count,Transactions,8830,All,Residential,Not Applicable
+S92000003,Scotland,Country,2019-04,Count,Transactions,730,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2019-04,Count,Transactions,2940,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-04,Count,Transactions,240,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2019-04,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2019-04,Count,Transactions,1980,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2019-06,Count,Transactions,500,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2019-06,Count,Transactions,1930,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2019-06,Count,Transactions,9300,Conveyance,Residential,All
+S92000003,Scotland,Country,2019-06,Count,Transactions,50,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-06,Count,Transactions,10590,All,All,Not Applicable
+S92000003,Scotland,Country,2019-06,Count,Transactions,4080,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2019-06,Count,Transactions,1300,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2019-07,Count,Transactions,70,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2019-06,Count,Transactions,9300,All,Residential,Not Applicable
+S92000003,Scotland,Country,2019-07,Count,Transactions,220,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2019-07,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-06,Count,Transactions,850,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2019-06,Count,Transactions,1010,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2019-06,Count,Transactions,180,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2019-05,Count,Transactions,1380,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2019-05,Count,Transactions,410,Lease,All,Not Applicable
+S92000003,Scotland,Country,2019-06,Count,Transactions,380,Lease,All,Not Applicable
+S92000003,Scotland,Country,2019-05,Count,Transactions,4300,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2019-05,Count,Transactions,170,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2019-05,Count,Transactions,1970,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2019-05,Count,Transactions,540,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2019-06,Count,Transactions,390,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2019-06,Count,Transactions,60,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2019-06,Count,Transactions,230,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2019-06,Count,Transactions,3290,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-06,Count,Transactions,420,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2019-06,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2019-02,Count,Transactions,420,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2019-02,Count,Transactions,5620,Conveyance,Residential,All
+S92000003,Scotland,Country,2019-02,Count,Transactions,2760,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2019-02,Count,Transactions,1840,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-02,Count,Transactions,240,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2019-01,Count,Transactions,3390,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2019-02,Count,Transactions,60,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-02,Count,Transactions,160,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2019-02,Count,Transactions,400,Lease,All,Not Applicable
+S92000003,Scotland,Country,2019-02,Count,Transactions,6940,All,All,Not Applicable
+S92000003,Scotland,Country,2019-02,Count,Transactions,30,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2019-02,Count,Transactions,220,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2019-02,Count,Transactions,5620,All,Residential,Not Applicable
+S92000003,Scotland,Country,2019-02,Count,Transactions,510,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2019-01,Count,Transactions,1410,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2019-01,Count,Transactions,2240,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-01,Count,Transactions,8320,All,All,Not Applicable
+S92000003,Scotland,Country,2019-01,Count,Transactions,590,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2019-01,Count,Transactions,550,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2019-01,Count,Transactions,320,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2019-01,Count,Transactions,6900,Conveyance,Residential,All
+S92000003,Scotland,Country,2019-01,Count,Transactions,430,Lease,All,Not Applicable
+S92000003,Scotland,Country,2019-01,Count,Transactions,440,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2019-01,Count,Transactions,190,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2019-01,Count,Transactions,2080,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2019-01,Count,Transactions,260,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2019-01,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-03,Count,Transactions,330,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2019-03,Count,Transactions,7540,All,Residential,Not Applicable
+S92000003,Scotland,Country,2019-03,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-03,Count,Transactions,9070,All,All,Not Applicable
+S92000003,Scotland,Country,2019-03,Count,Transactions,190,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2019-03,Count,Transactions,430,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2019-03,Count,Transactions,40,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2019-04,Count,Transactions,4180,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2019-04,Count,Transactions,380,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2019-04,Count,Transactions,320,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2019-03,Count,Transactions,670,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2019-03,Count,Transactions,1520,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2019-03,Count,Transactions,60,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2019-02,Count,Transactions,1320,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2019-02,Count,Transactions,550,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2019-03,Count,Transactions,7540,Conveyance,Residential,All
+S92000003,Scotland,Country,2019-03,Count,Transactions,660,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2019-02,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2019-02,Count,Transactions,1200,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2019-02,Count,Transactions,440,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2019-03,Count,Transactions,430,Lease,All,Not Applicable
+S92000003,Scotland,Country,2019-03,Count,Transactions,1690,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2019-03,Count,Transactions,3670,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2019-03,Count,Transactions,740,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2019-03,Count,Transactions,2430,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2019-03,Count,Transactions,310,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2016-03,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-03,Count,Transactions,2690,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-04,Count,Transactions,100,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-04,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2016-03,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2016-03,Count,Transactions,220,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2016-03,Count,Transactions,630,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2016-04,Count,Transactions,490,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2016-04,Count,Transactions,4660,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2016-04,Count,Transactions,90,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2016-04,Count,Transactions,580,Lease,All,Not Applicable
+S92000003,Scotland,Country,2016-04,Count,Transactions,1260,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2016-04,Count,Transactions,8340,All,Residential,Not Applicable
+S92000003,Scotland,Country,2016-04,Count,Transactions,500,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2016-03,Count,Transactions,5430,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2016-03,Count,Transactions,280,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2016-03,Count,Transactions,9680,Conveyance,Residential,All
+S92000003,Scotland,Country,2016-03,Count,Transactions,1190,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2016-02,Count,Transactions,230,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2016-02,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2016-02,Count,Transactions,6220,Conveyance,Residential,All
+S92000003,Scotland,Country,2016-03,Count,Transactions,10870,All,All,Not Applicable
+S92000003,Scotland,Country,2016-03,Count,Transactions,710,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2016-03,Count,Transactions,560,Lease,All,Not Applicable
+S92000003,Scotland,Country,2016-03,Count,Transactions,9680,All,Residential,Not Applicable
+S92000003,Scotland,Country,2016-03,Count,Transactions,780,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2016-03,Count,Transactions,60,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2016-05,Count,Transactions,4080,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2016-05,Count,Transactions,610,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2016-05,Count,Transactions,1350,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2016-05,Count,Transactions,460,Lease,All,Not Applicable
+S92000003,Scotland,Country,2016-05,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2016-05,Count,Transactions,1030,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2016-05,Count,Transactions,7680,Conveyance,Residential,All
+S92000003,Scotland,Country,2016-05,Count,Transactions,160,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2016-05,Count,Transactions,570,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2016-06,Count,Transactions,8700,Conveyance,Residential,All
+S92000003,Scotland,Country,2016-06,Count,Transactions,370,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2016-05,Count,Transactions,490,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2016-05,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-05,Count,Transactions,30,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2016-04,Count,Transactions,320,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2016-04,Count,Transactions,2540,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-04,Count,Transactions,9600,All,All,Not Applicable
+S92000003,Scotland,Country,2016-04,Count,Transactions,590,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2016-04,Count,Transactions,680,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2016-04,Count,Transactions,210,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2016-04,Count,Transactions,8340,Conveyance,Residential,All
+S92000003,Scotland,Country,2016-05,Count,Transactions,8710,All,All,Not Applicable
+S92000003,Scotland,Country,2016-05,Count,Transactions,240,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2016-05,Count,Transactions,300,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2016-05,Count,Transactions,7690,All,Residential,Not Applicable
+S92000003,Scotland,Country,2016-04,Count,Transactions,60,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2016-05,Count,Transactions,2480,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-12,Count,Transactions,40,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2015-12,Count,Transactions,720,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2015-12,Count,Transactions,9620,All,Residential,Not Applicable
+S92000003,Scotland,Country,2015-12,Count,Transactions,300,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2015-12,Count,Transactions,1130,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2015-12,Count,Transactions,830,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2015-12,Count,Transactions,270,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2015-12,Count,Transactions,5000,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2015-12,Count,Transactions,10750,All,All,Not Applicable
+S92000003,Scotland,Country,2015-12,Count,Transactions,3030,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-12,Count,Transactions,420,Lease,All,Not Applicable
+S92000003,Scotland,Country,2015-12,Count,Transactions,720,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2015-12,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2015-12,Count,Transactions,100,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-11,Count,Transactions,9370,Conveyance,Residential,All
+S92000003,Scotland,Country,2015-11,Count,Transactions,4880,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2015-11,Count,Transactions,1100,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2015-11,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2015-11,Count,Transactions,10470,All,All,Not Applicable
+S92000003,Scotland,Country,2015-11,Count,Transactions,550,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2015-11,Count,Transactions,40,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2015-11,Count,Transactions,9370,All,Residential,Not Applicable
+S92000003,Scotland,Country,2015-11,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2015-12,Count,Transactions,9620,Conveyance,Residential,All
+S92000003,Scotland,Country,2015-11,Count,Transactions,700,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2015-11,Count,Transactions,780,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2015-11,Count,Transactions,550,Lease,All,Not Applicable
+S92000003,Scotland,Country,2016-02,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-02,Count,Transactions,3560,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2016-02,Count,Transactions,130,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2016-02,Count,Transactions,470,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2016-01,Count,Transactions,30,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2016-01,Count,Transactions,440,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2016-02,Count,Transactions,1720,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-02,Count,Transactions,960,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2016-02,Count,Transactions,7180,All,All,Not Applicable
+S92000003,Scotland,Country,2016-02,Count,Transactions,500,Lease,All,Not Applicable
+S92000003,Scotland,Country,2016-02,Count,Transactions,400,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2016-02,Count,Transactions,510,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2016-02,Count,Transactions,6220,All,Residential,Not Applicable
+S92000003,Scotland,Country,2016-02,Count,Transactions,20,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2016-01,Count,Transactions,6010,All,Residential,Not Applicable
+S92000003,Scotland,Country,2016-01,Count,Transactions,420,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2016-01,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2016-01,Count,Transactions,160,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2016-01,Count,Transactions,190,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2016-01,Count,Transactions,6920,All,All,Not Applicable
+S92000003,Scotland,Country,2016-01,Count,Transactions,490,Lease,All,Not Applicable
+S92000003,Scotland,Country,2016-01,Count,Transactions,410,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2016-01,Count,Transactions,50,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-01,Count,Transactions,1800,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-01,Count,Transactions,910,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2016-01,Count,Transactions,3330,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2016-01,Count,Transactions,6000,Conveyance,Residential,All
+S92000003,Scotland,Country,2018-05,Count,Transactions,710,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2018-05,Count,Transactions,460,Lease,All,Not Applicable
+S92000003,Scotland,Country,2018-05,Count,Transactions,90,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-05,Count,Transactions,270,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2018-05,Count,Transactions,350,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2018-04,Count,Transactions,3860,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2018-05,Count,Transactions,580,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2018-05,Count,Transactions,8420,All,Residential,Not Applicable
+S92000003,Scotland,Country,2018-05,Count,Transactions,260,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2018-05,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2018-05,Count,Transactions,820,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2018-05,Count,Transactions,9710,All,All,Not Applicable
+S92000003,Scotland,Country,2018-05,Count,Transactions,1290,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2018-05,Count,Transactions,190,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2018-04,Count,Transactions,1220,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2018-04,Count,Transactions,420,Lease,All,Not Applicable
+S92000003,Scotland,Country,2018-04,Count,Transactions,30,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2018-04,Count,Transactions,8030,Conveyance,Residential,All
+S92000003,Scotland,Country,2018-04,Count,Transactions,100,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-04,Count,Transactions,300,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2018-04,Count,Transactions,820,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2018-04,Count,Transactions,640,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2018-04,Count,Transactions,8040,All,Residential,Not Applicable
+S92000003,Scotland,Country,2018-04,Count,Transactions,9270,All,All,Not Applicable
+S92000003,Scotland,Country,2018-04,Count,Transactions,330,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2018-04,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2018-04,Count,Transactions,210,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2018-06,Count,Transactions,460,Lease,All,Not Applicable
+S92000003,Scotland,Country,2018-06,Count,Transactions,540,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2018-06,Count,Transactions,3320,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-06,Count,Transactions,290,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2018-06,Count,Transactions,150,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2018-06,Count,Transactions,10930,All,All,Not Applicable
+S92000003,Scotland,Country,2018-06,Count,Transactions,880,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2018-07,Count,Transactions,10120,All,Residential,Not Applicable
+S92000003,Scotland,Country,2018-07,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2018-07,Count,Transactions,1360,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2018-07,Count,Transactions,610,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2018-06,Count,Transactions,2110,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2018-06,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2018-06,Count,Transactions,9660,All,Residential,Not Applicable
+S92000003,Scotland,Country,2018-05,Count,Transactions,8410,Conveyance,Residential,All
+S92000003,Scotland,Country,2018-05,Count,Transactions,4080,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2018-06,Count,Transactions,50,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2018-06,Count,Transactions,9650,Conveyance,Residential,All
+S92000003,Scotland,Country,2018-05,Count,Transactions,2770,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-05,Count,Transactions,1910,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2018-05,Count,Transactions,40,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2018-06,Count,Transactions,390,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2018-06,Count,Transactions,4450,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2018-06,Count,Transactions,260,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2018-06,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-06,Count,Transactions,960,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2018-06,Count,Transactions,1280,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2018-02,Count,Transactions,480,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2018-02,Count,Transactions,510,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2018-02,Count,Transactions,2850,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2018-02,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-06,Count,Transactions,1040,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2016-06,Count,Transactions,280,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2018-02,Count,Transactions,900,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2018-02,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2018-02,Count,Transactions,1370,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2018-02,Count,Transactions,230,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2018-02,Count,Transactions,6510,All,All,Not Applicable
+S92000003,Scotland,Country,2018-02,Count,Transactions,420,Lease,All,Not Applicable
+S92000003,Scotland,Country,2018-02,Count,Transactions,5600,Conveyance,Residential,All
+S92000003,Scotland,Country,2018-02,Count,Transactions,30,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2016-06,Count,Transactions,2870,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-06,Count,Transactions,630,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2016-06,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2016-06,Count,Transactions,720,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2016-06,Count,Transactions,490,Lease,All,Not Applicable
+S92000003,Scotland,Country,2016-06,Count,Transactions,160,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2016-06,Count,Transactions,80,Conveyance,Non-residential,>150 to 250 Thousand Pounds
+S92000003,Scotland,Country,2016-06,Count,Transactions,1740,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2016-06,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2016-06,Count,Transactions,8700,All,Residential,Not Applicable
+S92000003,Scotland,Country,2016-06,Count,Transactions,550,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2016-06,Count,Transactions,4430,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2016-06,Count,Transactions,9740,All,All,Not Applicable
+S92000003,Scotland,Country,2018-03,Count,Transactions,610,Conveyance,Residential,>325 to 750 Thousand Pounds
+S92000003,Scotland,Country,2018-03,Count,Transactions,330,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2018-03,Count,Transactions,50,Conveyance,Residential,>750 Thousand Pounds
+S92000003,Scotland,Country,2018-03,Count,Transactions,190,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2018-03,Count,Transactions,1070,All,Non-residential,Not Applicable
+S92000003,Scotland,Country,2018-03,Count,Transactions,490,Lease,All,Not Applicable
+S92000003,Scotland,Country,2018-03,Count,Transactions,590,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2018-04,Count,Transactions,660,Conveyance,Non-residential,All
+S92000003,Scotland,Country,2018-04,Count,Transactions,2680,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-04,Count,Transactions,1810,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2018-03,Count,Transactions,40,Conveyance,Non-residential,>250 to 350 Thousand Pounds
+S92000003,Scotland,Country,2018-03,Count,Transactions,2340,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-04,Count,Transactions,160,"Three-year lease review, assignation or termination",All,Not Applicable
+S92000003,Scotland,Country,2018-02,Count,Transactions,1670,Conveyance,Residential,>145 to 250 Thousand Pounds
+S92000003,Scotland,Country,2018-02,Count,Transactions,150,Conveyance,Non-residential,>350 Thousand Pounds
+S92000003,Scotland,Country,2018-03,Count,Transactions,7330,All,Residential,Not Applicable
+S92000003,Scotland,Country,2018-03,Count,Transactions,3660,Conveyance,Residential,0 to 145 Thousand Pounds
+S92000003,Scotland,Country,2018-02,Count,Transactions,520,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2018-02,Count,Transactions,240,Conveyance with claim for repayment of ADS,All,All
+S92000003,Scotland,Country,2018-02,Count,Transactions,5600,All,Residential,Not Applicable
+S92000003,Scotland,Country,2018-03,Count,Transactions,670,Conveyance,Residential,>250 to 325 Thousand Pounds
+S92000003,Scotland,Country,2018-03,Count,Transactions,1790,Conveyance with ADS declared due,All,All
+S92000003,Scotland,Country,2018-03,Count,Transactions,7330,Conveyance,Residential,All
+S92000003,Scotland,Country,2018-03,Count,Transactions,280,Conveyance,Non-residential,0 to 150 Thousand Pounds
+S92000003,Scotland,Country,2018-03,Count,Transactions,8400,All,All,Not Applicable
+S92000003,Scotland,Country,2018-03,Count,Transactions,70,Conveyance,Non-residential,>150 to 250 Thousand Pounds
